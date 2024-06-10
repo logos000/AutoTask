@@ -1,6 +1,6 @@
-target_types: ["person","person","person"]
-target_ids: ["3777210491","3134325969","1773470786"]
-weather_api_key: 3e42f03af471460d80342426240706
-citys: ["Haining","Wuxi","Ningbo"]
-bili_target_types: ["person","person"]
-bili_target_ids: ["3777210491","3134325969"]
+target_types: ["person"]
+target_ids: [""]
+weather_api_key:
+citys: [""]
+bili_target_types: ["person"]
+bili_target_ids: [""]
